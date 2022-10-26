@@ -1,4 +1,4 @@
-# hha504-flask1
+# HHA504: Flask-HTML
 Assignment 3
 
 Intructions:
